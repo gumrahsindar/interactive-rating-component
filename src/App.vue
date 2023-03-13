@@ -65,7 +65,7 @@ const rates = ref([1, 2, 3, 4, 5]);
       height: 3rem;
       border-radius: 50%;
     }
-    .text h2 {
+    .text h1 {
       font-size: 2rem;
       font-weight: 400;
     }
