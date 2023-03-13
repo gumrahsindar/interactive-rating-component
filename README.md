@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - [GH Repo](https://github.com/gumrahsindar/interactive-rating-component)
-- [Live Link](interactive-rating-component-phi-one.vercel.app)
+- [Live Link](https://interactive-rating-component-phi-one.vercel.app)
 
 ## My process
 
