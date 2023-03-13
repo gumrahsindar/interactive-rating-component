@@ -28,7 +28,7 @@ const props = defineProps(["activeRef"]);
   align-items: center;
   justify-content: center;
   max-width: 26rem;
-  background-color: $darkBlue;
+  background-image: linear-gradient(hsl(213, 19%, 18%), hsl(216, 12%, 11%));
   border-radius: 2rem;
 
   img {
